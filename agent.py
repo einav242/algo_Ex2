@@ -55,5 +55,5 @@ rami.set_option(E, 1)
 l = {ami, tami, rami}
 opt = {A, B, C, D, E}
 
-print(isParetoImprovement(l, B, A))
+print(isParetoImprovement(l, C, B))
 print(isParetoOptimal(l, B, opt))
