@@ -56,4 +56,5 @@ l = {ami, tami, rami}
 opt = {A, B, C, D, E}
 
 print(isParetoImprovement(l, C, B))
+print(isParetoImprovement(l, A, B))
 print(isParetoOptimal(l, B, opt))
